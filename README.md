@@ -8,7 +8,7 @@ You'll need [Node.js](https://nodejs.org) installed on your computer in order to
 
 ```bash
 git clone https://github.com/Artur-Ceschin/Next.js-TailwindCSS-Framer-Motion.git
-$ cd rocketredis
+$ cd Next.js-TailwindCSS-Framer-Motion
 $ yarn install
 $ yarn dev
 ```
